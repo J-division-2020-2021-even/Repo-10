@@ -1,1 +1,1 @@
-Function flowchart.
+This Folder contains images.
